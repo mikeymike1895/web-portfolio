@@ -1,0 +1,84 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+* {
+	font-family: 'Noto Sans';
+}
+
+#name {
+	color: white;
+}
+
+#home {
+	background-color: #769EFF;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg %3E%3Cpolygon fill='%237494e9' points='1600 160 0 460 0 350 1600 50'/%3E%3Cpolygon fill='%23718ad3' points='1600 260 0 560 0 450 1600 150'/%3E%3Cpolygon fill='%236f80be' points='1600 360 0 660 0 550 1600 250'/%3E%3Cpolygon fill='%236c76a8' points='1600 460 0 760 0 650 1600 350'/%3E%3Cpolygon fill='%236A6C92' points='1600 800 0 800 0 750 1600 450'/%3E%3C/g%3E%3C/svg%3E");
+	background-attachment: fixed;
+	background-size: cover;
+	position: relative;
+}
+
+
+
+#name {
+	font-family: 'Montserrat'; !important
+	font-weight: bold;
+}
+
+
+.dolphin {
+	width: 300px;
+	height: 300px;
+	border: solid 5px;
+	border-color: whitesmoke;
+	-webkit-box-shadow: 3px 1px 15px 20px rgba(0,0,0,0.17); 
+	box-shadow: 3px 1px 15px 20px rgba(0,0,0,0.17);
+}
+
+#nav {  
+    background-color: #080607; /*whichever you want*/
+    filter: opacity(90%);  
+    border-radius: 5rem;     
+}
+
+h1 {
+	font-family: 'Montserrat' !important;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+
+#about-me {
+	background-color: #E7F9FF;
+	border-radius: 5rem;
+	margin: 2rem 2rem 2rem	2rem;
+	-webkit-box-shadow: 3px 1px 15px 20px rgba(0,0,0,0.17); 
+	box-shadow: 3px 1px 15px 20px rgba(0,0,0,0.17);
+}
+
+.card {
+	border-radius: 30px !important;
+    padding: 15px !important;
+    width: 18rem !important;
+    -webkit-box-shadow: 3px 1px 15px 20px rgba(0,0,0,0.17); 
+    box-shadow: 3px 1px 15px 20px rgba(0,0,0,0.17);
+}
+
+#contact-us {
+	background-color: #E7F9FF;
+	border-radius: 2rem;
+	-webkit-box-shadow: 3px 1px 15px 20px rgba(0,0,0,0.17); 
+	box-shadow: 3px 1px 15px 20px rgba(0,0,0,0.17);
+}
+
+#welcome {
+	background-color: #E7F9FF;
+	border-radius: 2rem;
+}
+
+
