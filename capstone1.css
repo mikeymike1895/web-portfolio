@@ -45,7 +45,11 @@
 }
 
 .dive {
-	
+	border: solid 5px;
+	border-color: rgba(82, 78, 183, .5);
+	-webkit-box-shadow: 3px 1px 15px 20px rgba(0,0,0,0.17); 
+	box-shadow: 3px 1px 15px 20px rgba(0,0,0,0.17);
+	margin: 2rem;
 }
 
 .dolphin {
@@ -53,6 +57,7 @@
 	border-color: rgba(82, 78, 183, .5);
 	-webkit-box-shadow: 3px 1px 15px 20px rgba(0,0,0,0.17); 
 	box-shadow: 3px 1px 15px 20px rgba(0,0,0,0.17);
+	margin: 2rem;
 }
 
 .dolphin:hover {
